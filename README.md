@@ -1,4 +1,4 @@
-ampusSwap – Website trao đổi đồ cũ cho sinh viên Trường Đại học Thủy Lợi
+CampusSwap – Website trao đổi đồ cũ cho sinh viên Trường Đại học Thủy Lợi
 
 1. Giới thiệu dự án
 
