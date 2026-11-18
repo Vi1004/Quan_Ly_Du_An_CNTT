@@ -99,8 +99,8 @@ Dự án sử dụng các công nghệ và công cụ sau:
 
 | Thành phần | Công nghệ |
 |---|---|
-| Ngôn ngữ lập trình | C# |
-| Nền tảng phát triển | Windows Forms (.NET Framework) |
+| Ngôn ngữ lập trình | PHP, HTML, CSS, Boostrap |
+| Nền tảng phát triển | Xampp |
 | Công cụ lập trình | Visual Studio |
 | Hệ quản trị cơ sở dữ liệu | SQL Server |
 | Quản lý mã nguồn | Git và GitHub |
@@ -124,7 +124,7 @@ Dự án tập trung vào việc xây dựng phiên bản ban đầu phục vụ
 
 Dự án được thực hiện bởi 5 thành viên. Mỗi thành viên đảm nhận một nhóm công việc chính, đồng thời phối hợp với các thành viên còn lại trong quá trình phát triển hệ thống.
 
-### 7.1. Nguyễn Thanh Huyền – Quản lý dự án và điều phối nhóm
+### 7.1. Nguyễn Thị Như Ý – Quản lý dự án và điều phối nhóm
 
 **Nhiệm vụ:**
 - Lập kế hoạch thực hiện dự án.
@@ -137,7 +137,7 @@ Dự án được thực hiện bởi 5 thành viên. Mỗi thành viên đảm 
 
 **Mục tiêu:** Đảm bảo dự án được triển khai đúng kế hoạch, các thành viên phối hợp hiệu quả và sản phẩm đáp ứng yêu cầu đề ra.
 
-### 7.2. Lê Yến Vi – Phân tích và thiết kế hệ thống
+### 7.2. Nguyễn Thanh Huyền – Phân tích và thiết kế hệ thống
 
 **Nhiệm vụ:**
 - Thu thập và phân tích yêu cầu người dùng.
@@ -150,7 +150,7 @@ Dự án được thực hiện bởi 5 thành viên. Mỗi thành viên đảm 
 
 **Mục tiêu:** Xây dựng tài liệu phân tích và thiết kế đầy đủ, làm cơ sở cho quá trình lập trình và phát triển hệ thống.
 
-### 7.3. Nguyễn Thị Như Ý – Thiết kế và xây dựng giao diện
+### 7.3. Lê Yến Vi – Thiết kế và xây dựng giao diện
 
 **Nhiệm vụ:**
 - Thiết kế giao diện chính của hệ thống.
