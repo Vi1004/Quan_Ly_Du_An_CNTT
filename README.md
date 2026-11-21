@@ -248,9 +248,9 @@ CampusSwap mang lại những ý nghĩa thiết thực đối với cộng đồ
 
 | STT | Họ và tên | Lớp | Nhiệm vụ |
 |---|---|---|---|
-| 1 | Nguyễn Thanh Huyền | 66HTTT2 | Quản lý dự án |
-| 2 | Lê Yến Vi | 66HTTT2 | Phân tích và thiết kế |
-| 3 | Nguyễn Thị Như Ý | 66HTTT2 | Thiết kế giao diện |
+| 1 | Nguyễn Thị Như Ý | 66HTTT2 | Quản lý dự án |
+| 2 | Nguyễn Thanh Huyền | 66HTTT2 | Phân tích và thiết kế |
+| 3 | Lê Yến Vi | 66HTTT2 | Thiết kế giao diện |
 | 4 | Tăng Thùy Trâm | 66HTTT2 | Lập trình chức năng |
 | 5 | Ngô Thị Thanh Vân | 66HTTT2 | Cơ sở dữ liệu và kiểm thử |
 
